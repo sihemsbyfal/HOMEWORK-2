@@ -3,10 +3,15 @@
 * Created by sihem on 02/10/2015.
 */
 public class personne {
+
 private String nom;
+
 private String prenom;
+
 private String nationalite;
+
 private int nbAmis;
+
 private personne[]Amis;
 private int age;
 public personne(String nom,String prenom,String nationalite,int age){
